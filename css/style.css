@@ -1,0 +1,70 @@
+body {
+  background: url("../assets/img/sfondo.jpg");
+
+}
+
+.main {
+  margin-left: 15%;
+  margin-right: 15%;
+
+}
+
+img{
+  width: 20%;
+  height: 20%;
+}
+
+
+.titolo {
+  font-size:40px;
+  color: white;
+}
+
+hr {
+  color: white;
+}
+
+header{
+  margin-bottom: -10px;
+}
+
+h2 {
+  color: white;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+
+#numero {
+  background-color:#FF9800;
+  border-radius: 50%;
+  padding: 2px;
+}
+
+.mail {
+  padding: 3px;
+  background-color: lightgrey;
+  margin: 2px;
+}
+
+.mailletta {
+  padding: 3px;
+  margin: 2px;
+  background-color: white;
+}
+
+#sezionemail{
+  margin-bottom: 8px;
+}
+
+.testomail {
+  color: darkgrey;
+}
+
+footer{
+  color: white;
+  text-align: center;
+}
+
+#gmailfooter {
+  font-size: 40px;
+}
